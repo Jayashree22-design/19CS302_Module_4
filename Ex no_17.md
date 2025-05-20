@@ -8,7 +8,7 @@ To write a C Program to compare two strings without using strcmp().
 2. Read two strings from the user using scanf.
 3. Initialize an index i and compare characters at position i of both strings.
 4. If characters differ at any position, mark strings as not equal and stop; if both strings end together without mismatch, they are equal. 
-5. Print whether the strings are equal or not and end the program.  
+5. Print whether the strings are equal or not and end the program. 
 
 ## Program:
 ```

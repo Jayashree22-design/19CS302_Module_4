@@ -1,13 +1,17 @@
 # EX 19 C program to perform basic left and right shift operations on a given integer and display the result.
-## DATE:
+## DATE:11/05/2025
 ## AIM:
 To write a C program to perform basic left and right shift operations on a given integer and display the result.
 
 ## Algorithm
 1.Start the program. 
+
 2.Read an integer and the number of positions to shift.
-3.Perform left shift (<<) on the integer by the given positions. 
+
+3.Perform left shift (<<) on the integer by the given positions.
+
 4.Perform right shift (>>) on the integer by the given positions.
+
 5.Display the results and end the program.   
 
 ## Program:

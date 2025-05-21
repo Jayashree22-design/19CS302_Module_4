@@ -1,13 +1,17 @@
 # EX 18 C program to find frequency of a character in the given input.
-## DATE:
+## DATE:11/05/2025
 ## AIM:
 To write a C program to find frequency of a character in the given input.
 
 ## Algorithm
 1.Start the program. 
+
 2.Read the input string from the user.
+
 3.Read the character whose frequency needs to be found. 
+
 4.Traverse the string and count how many times the character appears.
+
 5.Print the frequency and end the program.   
 
 ## Program:
